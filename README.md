@@ -1,3 +1,5 @@
+https://blog.kroy.io/monitoring-home-power-consumption-for-less-than-25/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav
+
 ### Purpose
 Utilities often use "smart meters" to optimize their residential meter reading infrastructure. Smart meters transmit consumption information in the various ISM bands allowing utilities to simply send readers driving through neighborhoods to collect commodity consumption information. One protocol in particular: Encoder Receiver Transmitter by Itron is fairly straight forward to decode and operates in the 900MHz ISM band, well within the tunable range of inexpensive rtl-sdr dongles.
 
